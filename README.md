@@ -2,7 +2,8 @@
 # Digital Clock - HTML/CSS/JavaScript
 
 This is a simple digital clock application created using HTML, CSS, and JavaScript. It displays the current time, date, and day on a web page.
-
+## Demo
+Live Demo: https://goblin-code.github.io/Digital-clock/
 ## Features
 
 - Real-time clock: The application constantly updates to display the current time accurately.
